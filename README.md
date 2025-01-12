@@ -55,7 +55,8 @@ Welcome to **Awesome NFL Analytics**, your one-stop-shop for everything related 
 ### Tutorials and Guides
 
 - **[nflfastR Guide](https://www.nflfastr.com/articles/nflfastR.html):** A beginner-friendly guide to using the `nflfastR` package for analysis.
-- **[Analyzing the NFL Big Data Bowl Dataset](https://www.kaggle.com/c/nfl-big-data-bowl-2022):** Walkthroughs and example notebooks on Kaggle.
+- **[Big Data Bowl 2024](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024):** NFL big data contest ending Jan 2024.
+- **[Big Data Bowl 2025](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025):** NFL big data contest ending Jan 2025.
 - **[NFL Analytics with Python (Medium)](https://medium.com/):** Tutorials covering NFL analytics projects using Python and machine learning.
 
 ### Analytics Blogs and Websites
