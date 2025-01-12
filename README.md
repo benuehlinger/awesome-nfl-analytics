@@ -70,7 +70,7 @@ Welcome to **Awesome NFL Analytics**, your one-stop-shop for everything related 
 - **[Uncovering Missed Tackle Opportunites](https://www.kaggle.com/code/matthewpchang/uncovering-missed-tackle-opportunities/):** Code and research from the winner of the 2024 NFL Big Data Bowl.
 - **[NFL Modeling With Transformers](https://www.kaggle.com/code/pvabish/modeling-with-transformers-by-sumersports/notebook):** Modeling Player Tracking Data with Transformers and Deep Learning
 - **[Dialing Up the Pressure](https://www.kaggle.com/code/andrewakers9/dialing-up-the-pressure):** Introducing (Pre-Snap) Net Pressure Rate Gained: An Evaluation of Pass Blitz Schemes using transformers.
-- **[CHASE: A New Metric for Receiver Spatial Impact]([https://www.kaggle.com/code/andrewakers9/dialing-up-the-pressure](https://www.kaggle.com/code/lauerjames/chase-a-new-metric-for-receiver-spatial-impact)):** Using Convex hull to approximate defensive spacing and its effect on offensive outcomes.
+- **[CHASE: A New Metric for Receiver Spatial Impact](https://www.kaggle.com/code/lauerjames/chase-a-new-metric-for-receiver-spatial-impact):** Using Convex hull to approximate defensive spacing and its effect on offensive outcomes.
 
 
 ### Communities
