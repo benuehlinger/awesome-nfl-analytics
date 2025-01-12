@@ -67,16 +67,17 @@ Welcome to **Awesome NFL Analytics**, your one-stop-shop for everything related 
 
 ### Research and Articles
 - **[Next Gen Stats: New advanced metrics you NEED to know for the 2024 NFL season](https://www.nfl.com/news/next-gen-stats-new-advanced-metrics-you-need-to-know-for-the-2024-nfl-season):** Article written by the winner of the 2024 Big Data Bowl describing newest analtical tools to be aware of for the 2024 NFL season.
-- **[Uncovering Missed Tackle Opportunites](https://www.kaggle.com/code/matthewpchang/uncovering-missed-tackle-opportunities/):** Code and research from the winner of the 2024 NFL Big Data Bowl. 
+- **[Uncovering Missed Tackle Opportunites](https://www.kaggle.com/code/matthewpchang/uncovering-missed-tackle-opportunities/):** Code and research from the winner of the 2024 NFL Big Data Bowl.
+- **[NFL Modeling With Transformers](https://www.kaggle.com/code/pvabish/modeling-with-transformers-by-sumersports/notebook):** Modeling Player Tracking Data with Transformers and Deep Learning
+- **[Dialing Up the Pressure](https://www.kaggle.com/code/andrewakers9/dialing-up-the-pressure):** Introducing (Pre-Snap) Net Pressure Rate Gained: An Evaluation of Pass Blitz Schemes using transformers.
+- **[CHASE: A New Metric for Receiver Spatial Impact]([https://www.kaggle.com/code/andrewakers9/dialing-up-the-pressure](https://www.kaggle.com/code/lauerjames/chase-a-new-metric-for-receiver-spatial-impact)):** Using Convex hull to approximate defensive spacing and its effect on offensive outcomes.
+
 
 ### Communities
 
 - **[NFLData Subreddit](https://www.reddit.com/r/NFLData/):** A community for sharing and discussing NFL analytics projects and resources.
 - **[Kaggle Competitions](https://www.kaggle.com/):** A hub for data science competitions, including the NFL Big Data Bowl.
 - **[NFLVerse Discord](https://discord.gg/nflverse):** A vibrant community for NFL analytics enthusiasts and developers.
-- **[NFL Modeling With Transformers](https://www.kaggle.com/code/pvabish/modeling-with-transformers-by-sumersports/notebook):** Modeling Player Tracking Data with Transformers and Deep Learning
-- **[Dialing Up the Pressure](https://www.kaggle.com/code/andrewakers9/dialing-up-the-pressure):** Introducing (Pre-Snap) Net Pressure Rate Gained: An Evaluation of Pass Blitz Schemes using transformers.
-- **[CHASE: A New Metric for Receiver Spatial Impact]([https://www.kaggle.com/code/andrewakers9/dialing-up-the-pressure](https://www.kaggle.com/code/lauerjames/chase-a-new-metric-for-receiver-spatial-impact)):** Using Convex hull to approximate defensive spacing and its effect on offensive outcomes.
 
 ---
 
